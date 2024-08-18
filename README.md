@@ -6,7 +6,7 @@ Oyunlar hakkında bilgi sağlayan web site projesi.
 
 HTML5 ve CSS3
 
-# Ekran Gif
+
 
 
 
