@@ -10,7 +10,6 @@ HTML5 ve CSS3
 
 
 
-![Uploading Video Screen1724277305928.gif…]()
 
 
 
